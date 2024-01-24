@@ -17,7 +17,7 @@ public class tinhtongso {
             int tongChuSo = tinhTongChuSo(n);
 
             // Hien thi ket qua
-            System.out.println("Tổng các chữ số của số " + n + " là: " + tongChuSo);
+            System.out.println("Tong cac chu so cua so " + n + " la: " + tongChuSo);
         }
 
         // Đong đoi tuong Scanner sau khi su dung

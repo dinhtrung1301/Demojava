@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.time.LocalDate;
-public class xacdinhnhomtuoi {
+public class bai3 {
     public static void main(String[] args) {
         // Tao đoi tuong Scanner đe nhap du lieu tu ban phim
         Scanner scanner = new Scanner(System.in);

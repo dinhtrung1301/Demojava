@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tinhtongso {
+public class silde30 {
     public static void main(String[] args) {
         // Tao mot đoi tuong Scanner đe nhap du lieu tu ban phim
         Scanner scanner = new Scanner(System.in);

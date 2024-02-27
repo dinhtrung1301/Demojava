@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sonhonhat {
+public class slide35 {
     public static void main(String[] args) {
         // Tao mot doi tuong Scanner de nhap du lieu tu ban phim
         Scanner scanner = new Scanner(System.in);
